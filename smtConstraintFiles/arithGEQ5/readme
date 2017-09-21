@@ -1,0 +1,1 @@
+This folder contains constraint files generated for detection of arithmetic predicate of the form ∑_i^n▒〖v_i>=5〗, where v_i denotes variable v of process i in a distributed system of n proceses.
