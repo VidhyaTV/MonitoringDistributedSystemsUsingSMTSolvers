@@ -1,1 +1,2 @@
 This folder contains all SMT constraint files (for the solver) generated during execution of the distributed system.
+These SMT files were generated to analyze the effect of various system properties like (inter-process communication frequency, message delay, local predicate rate, etc) on Monitoring time (Z3 time to solve the problem).
